@@ -2,7 +2,8 @@
 
 # Edit By ECUST LAB10204 
 Written by Zhaoyibin  
-Only Used for learning ^^
+Only Used for learning ^^  
+正式学习从rasterize_points.cu的RasterizeGaussiansCUDA开始  
 
 Used as the rasterization engine for the paper "3D Gaussian Splatting for Real-Time Rendering of Radiance Fields". If you can make use of it in your own research, please be so kind to cite us.
 
